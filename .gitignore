@@ -1,6 +1,2 @@
 MemManager
-unit/
-test_file/
 .vscode/
-trace_output.txt
-analysis.txt
