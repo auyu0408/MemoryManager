@@ -155,13 +155,13 @@ Process B, TLB Hit, 48=>35
 Process B, TLB Hit, 20=>41
 Process B, TLB Miss, Page Fault, 36, Evict 22 of Process B to 6, 28<<-1
 Process B, TLB Hit, 28=>36
+Process B, TLB Miss, Page Hit, 94=>60
 Process B, TLB Hit, 94=>60
 Process B, TLB Hit, 79=>38
 Process B, TLB Miss, Page Fault, 37, Evict 58 of Process B to 7, 8<<-1
 Process B, TLB Hit, 8=>37
 Process B, TLB Miss, Page Fault, 40, Evict 67 of Process B to 8, 70<<-1
 Process B, TLB Hit, 70=>40
-Process B, TLB Miss, Page Hit, 55=>43
 Process B, TLB Hit, 55=>43
 Process B, TLB Miss, Page Fault, 42, Evict 71 of Process B to 9, 47<<-1
 Process B, TLB Hit, 47=>42
@@ -169,6 +169,7 @@ Process B, TLB Miss, Page Fault, 44, Evict 83 of Process B to 10, 97<<2
 Process B, TLB Hit, 97=>44
 Process B, TLB Miss, Page Fault, 45, Evict 30 of Process B to 2, 63<<-1
 Process B, TLB Hit, 63=>45
+Process B, TLB Miss, Page Hit, 16=>59
 Process B, TLB Hit, 16=>59
 Process B, TLB Miss, Page Fault, 46, Evict 57 of Process B to 11, 12<<-1
 Process B, TLB Hit, 12=>46
@@ -458,7 +459,6 @@ Process B, TLB Miss, Page Fault, 50, Evict 50 of Process B to 85, 59<<-1
 Process B, TLB Hit, 59=>50
 Process B, TLB Hit, 12=>46
 Process B, TLB Hit, 27=>38
-Process B, TLB Miss, Page Hit, 92=>54
 Process B, TLB Hit, 92=>54
 Process B, TLB Miss, Page Fault, 51, Evict 108 of Process B to 86, 16<<75
 Process B, TLB Hit, 16=>51
@@ -477,7 +477,6 @@ Process B, TLB Miss, Page Fault, 62, Evict 43 of Process B to 88, 15<<79
 Process B, TLB Hit, 15=>62
 Process B, TLB Miss, Page Fault, 63, Evict 36 of Process B to 79, 61<<-1
 Process B, TLB Hit, 61=>63
-Process B, TLB Miss, Page Hit, 45=>31
 Process B, TLB Hit, 45=>31
 Process B, TLB Miss, Page Fault, 39, Evict 93 of Process B to 89, 14<<-1
 Process B, TLB Hit, 14=>39
@@ -538,12 +537,10 @@ Process B, TLB Hit, 9=>47
 Process B, TLB Hit, 11=>32
 Process B, TLB Miss, Page Fault, 54, Evict 92 of Process B to 83, 91<<77
 Process B, TLB Hit, 91=>54
-Process B, TLB Miss, Page Hit, 18=>56
 Process B, TLB Hit, 18=>56
 Process B, TLB Hit, 72=>42
 Process B, TLB Miss, Page Fault, 55, Evict 94 of Process B to 77, 29<<0
 Process B, TLB Hit, 29=>55
-Process B, TLB Miss, Page Hit, 15=>62
 Process B, TLB Hit, 15=>62
 Process B, TLB Hit, 44=>31
 Process B, TLB Miss, Page Fault, 57, Evict 5 of Process B to 0, 94<<77

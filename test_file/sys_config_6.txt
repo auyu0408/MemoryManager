@@ -1,6 +1,6 @@
-TLB Replacement Policy: LRU
-Page Replacement Policy: FIFO
+TLB Replacement Policy: RANDOM
+Page Replacement Policy: CLOCK
 Frame Allocation Policy: GLOBAL
-Number of Processes: 2
+Number of Processes: 2	
 Number of Virtual Page: 128
 Number of Physical Frame: 64

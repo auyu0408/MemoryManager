@@ -1,4 +1,4 @@
-TLB Replacement Policy: LRU
+TLB Replacement Policy: RANDOM
 Page Replacement Policy: CLOCK
 Frame Allocation Policy: LOCAL
 Number of Processes: 2	
