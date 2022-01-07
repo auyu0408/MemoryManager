@@ -1,2 +1,4 @@
 MemManager
 .vscode/
+trace_output.txt
+analysis.txt
